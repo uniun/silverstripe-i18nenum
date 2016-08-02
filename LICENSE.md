@@ -1,4 +1,4 @@
-Copyright (c) 2016, JSC "UNISOLUTIONS"
+Copyright (c) 2016, Elvinas Liutkevičius
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
